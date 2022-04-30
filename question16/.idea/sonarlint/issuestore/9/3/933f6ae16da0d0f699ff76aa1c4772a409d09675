@@ -1,0 +1,22 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óãò”
+g	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ï®İûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Šè¨¸ùÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(ÉB
+S	java:S106+"9Replace this use of System.out or System.err by a logger.( Ñ…Üúÿÿÿÿ
+W
+java:S11260"AReplace this if-then-else statement by a single return statement.(‘¸ªÃ
+?
+java:S19407")Use the opposite operator ("!=") instead.(¥µ‹›
+C
+java:S1068"(Remove this unused "name" private field.(–™¬õùÿÿÿÿ
+A
+java:S1068"&Remove this unused "ID" private field.( ï®İûÿÿÿÿ
+@
+java:S1068"*Remove this unused "gender" private field.(ûÜıå
+E
+java:S1068"*Remove this unused "weight" private field.(¯÷•’şÿÿÿÿ
+E
+java:S1068	"*Remove this unused "height" private field.(ÚÎ×Îøÿÿÿÿ
+K
+java:S11446"0Remove this unused private "checkGender" method.(«´Óîùÿÿÿÿ

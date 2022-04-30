@@ -1,0 +1,8 @@
+
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "str".(úÇùÿÿÿÿÿ
+>
+java:S1659"#Declare "text2" on a separate line.(¢”Üéıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£à¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ««
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò»øâ8¢£’œ„0

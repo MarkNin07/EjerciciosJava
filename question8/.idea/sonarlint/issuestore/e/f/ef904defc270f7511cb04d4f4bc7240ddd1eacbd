@@ -1,0 +1,12 @@
+
+D
+java:S1121".Extract the assignment out of this expression.(¹Ş´Ø
+M
+java:S1854"7Remove this useless assignment to local variable "day".(¹Ş´Ø
+C
+java:S1481	"(Remove this unused "day" local variable.(ş‰¼Óúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ¨×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŠ×˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§¢øÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½êäÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±êÎìıÿÿÿÿ
